@@ -1,0 +1,26 @@
+Como usar:
+
+Preparação :
+
+Substitua sua_chave_unsplashcom sua chave de API do Unsplash.
+Configure as credenciais da AWS em sua máquina ou ambiente de execução.
+
+Execução :
+
+Execute o script.
+Insira o caminho completo para o arquivo PDF quando solicitado.
+
+Saída :
+
+O script extrai as palavras do PDF.
+Busca imagens relacionadas para cada palavra e exibe como URLs.
+
+Observações:
+
+Certifique-se de que o Amazon Textract esteja habilitado em sua conta AWS.
+Para um grande número de palavras, considere limitar a busca de imagens para evitar excesso de chamadas à API.
+
+
+
+
+
